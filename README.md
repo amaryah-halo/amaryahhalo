@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amaryah Halo
-- 👀 I’m interested in data science and analytics
+- 👀 
 - 🌱 I’m currently learning computer science and political science at Victoria University of Wellington
 
 <!---
